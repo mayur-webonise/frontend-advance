@@ -1,0 +1,84 @@
+.header {
+  background-image: url(../images/background.png);
+  width: 1440px;
+  height: 818px;
+}
+
+h2 {
+  font-weight: 500
+}
+
+p {
+  font-weight: 300;
+}
+
+.marker {
+  color: red;
+}
+
+.container {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+hr {
+  color: red;
+  width: 50px;
+  height: 3px;
+
+}
+
+.logobox {
+  width: 70px;
+  height: 76px;
+  border-radius: 15px;
+  background-color: #B6D7FF;
+}
+
+img {
+  padding: 18px;
+}
+
+.logobox1 {
+  width: 70px;
+  height: 76px;
+  border-radius: 15px;
+  background-color: #DDEEFE;
+}
+
+.logobox2 {
+  width: 70px;
+  height: 76px;
+  border-radius: 15px;
+  background-color: #F9FDFF;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 300px;
+  width: 300px;
+  padding: 35px 40px 35px 40px;
+}
+
+h4 {
+  margin-top: 12px;
+}
+
+.section4content {
+  margin: 130px 40px
+}
+
+.section4para {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.section5image {
+  margin-top: 90px;
+  height: 65%;
+  width: 90%;
+}
+
+.section5 {
+  background-color: #26335D;
+}
